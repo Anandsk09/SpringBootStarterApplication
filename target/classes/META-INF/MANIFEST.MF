@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Api Development
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: org.springboot.project.starter
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootApplication
+Created-By: Maven Integration for Eclipse
+
